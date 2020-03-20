@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Content you can watch on 22nd March
 ---
 
