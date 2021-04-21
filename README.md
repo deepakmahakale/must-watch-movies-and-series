@@ -1,6 +1,6 @@
 # Must watch movies & series
 
-## [🔗](#movies-binge-watch) Movies (binge watch)
+## [🔗](#-movies-binge-watch) Movies (binge watch)
 
 1. Marvel Movies
 1. DC Movies
@@ -18,7 +18,7 @@
 1. John Wick
 
 
-## Series
+## [🔗](#-series) Series
 
 1. Money Heist
 1. Prison Break
@@ -32,9 +32,9 @@
 1. Blindspot
 1. Silicon valley
 
-## Short Films
+## [🔗](#-short-films) Short Films
 
-## DC Movies
+## [🔗](#-dc-movies) DC Movies
 
 1. Batman Begins (2005)
 1. The Dark Knight (2008)
@@ -43,8 +43,8 @@
 1. Batman vs. Superman (2016)
 1. Justice League (2017)
 
-## Marvel Movies
+## [🔗](#-marvel-movies) Marvel Movies
 
-## Star Wars
+## [🔗](#-star-wars) Star Wars
 
-## Harry Potter
+## [🔗](#-harry-potter) Harry Potter
