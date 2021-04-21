@@ -1,6 +1,6 @@
 # Must watch movies & series
 
-## Movies (binge watch)
+## [🔗](#movies-binge-watch) Movies (binge watch)
 
 1. Marvel Movies
 1. DC Movies
