@@ -35,6 +35,13 @@
 
 ## DC Movies
 
+1. Batman Begins (2005)
+1. The Dark Knight (2008)
+1. The Dark Knight Rises (2012)
+2. Man of Steel (2013)
+3. Batman vs. Superman (2016)
+4. Justice League (2017)
+
 ## Marvel Movies
 
 ## Star Wars
